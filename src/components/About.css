@@ -1,0 +1,50 @@
+.flex {
+  display: flex;
+}
+.mtop {
+  margin-top: 80px;
+}
+.baget {
+  padding: 10px 20px;
+  background: rgba(0, 0, 0, 0.05);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.primary-btn {
+  padding: 20px 60px;
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #000;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.primary-btn:hover {
+  background: transparent;
+  color: #000;
+  border: 2px solid #000;
+}
+.about {
+  background: #fff;
+  padding: 100px 0;
+}
+.about .right {
+  padding: 50px 80px;
+}
+.about h2 {
+  font-size: 40px;
+  margin: 20px 0;
+}
+p {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #767676;
+}
+.about button {
+  margin-top: 40px;
+}
+.cover img {
+  width: 50px;
+}
